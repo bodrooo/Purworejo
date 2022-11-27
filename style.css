@@ -1,0 +1,55 @@
+*, html, body {
+  padding: 0px;
+  margin: 0px;
+}
+
+.container {
+  width: 96%;
+  height: 260px;
+  transform: translate(2%, 5%);
+  font-size: 5px;
+  color: #eaeaea;
+  background-color: #000;
+}
+
+.icon {
+  margin-top: 25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.heading {
+  margin: 10px;
+  text-align: center;
+  font-size: 25px;
+}
+
+.card {
+  width: 96%;
+  height: auto;
+  transform: translate(2%, 5%);
+  margin-top: 5px;
+  color: #eaeaea;
+  background-color: #000;
+}
+
+.gb1 {
+  width: 94%;
+  height: 240px;
+  transform: translate(3%, 1%);
+  margin-top: 7px;
+}
+
+.descripsi {
+  margin-left: 5px;
+  text-indent: 7px;
+}
+
+.card1 {
+  width: 96%;
+  height: auto;
+  transform: translate(2%, 5%);
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
